@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
@@ -79,3 +80,6 @@ To know more about its features, check out our [website](https://scaffoldeth.io)
 We welcome contributions to Scaffold-ETH 2!
 
 Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-ETH 2.
+=======
+# Project01
+>>>>>>> e1a282708f862d9476579a1a36d03edcf7e5e427
